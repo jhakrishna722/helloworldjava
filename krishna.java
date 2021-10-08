@@ -1,2 +1,7 @@
-public class krishna{
+public class helloworldjavak {
+   public static void main(String[] args) {
+    System.out.println("Hello World from Jenkinsk ");
+    }
+}
+
   
